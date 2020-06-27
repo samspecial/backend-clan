@@ -26,7 +26,7 @@
   },
   "license": "MIT",
   "main": "server.js",
-  "name": "clan-js-backend",
+  "name": "clanapp-backend",
   "scripts": {
     "test": "jest --watchAll"
   },
